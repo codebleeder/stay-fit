@@ -2,7 +2,7 @@
 Email reminders for busy students to do easy and quick exercises
 
 ## Features
-1. Sign-up
+1. Google Sign-up/login
 2. Login and log-out
 3. Set exercise and times for email reminders
 4. 'exercise done' confirmation
